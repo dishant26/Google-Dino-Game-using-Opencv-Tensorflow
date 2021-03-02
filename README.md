@@ -16,9 +16,9 @@
 
 ---
 <br>
-
-<img src="Pictures\google_dino_gif.gif" width ="600" height= "338"/>
-
+<div align = "center">
+<img src="Pictures\google_dino_gif.gif" width ="750" height= "422"/>
+</div>
 <br><br>
 
 
