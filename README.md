@@ -17,7 +17,7 @@
 ---
 <br>
 
-<img src="Pictures\google_dino_gif.gif"/>
+<img src="Pictures\google_dino_gif.gif" width ="1200" height= "676"/>
 
 <br><br>
 
