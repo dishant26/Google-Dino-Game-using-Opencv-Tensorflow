@@ -17,7 +17,7 @@
 ---
 <br>
 <div align = "center">
-<img src="Pictures\google_dino_gif.gif" width ="750" height= "422"/>
+<img src="Pictures\google_dino_gif.gif" width ="840" height= "473"/>
 </div>
 <br><br>
 
