@@ -1,7 +1,7 @@
 <h1 align="center">Google Dino Game</h1>
 
 <div align= "center">
-<img src="Pictures\trex-bg.png" width=250px height=274px/>
+<img src="Pictures\trex-bg.png" width=204px height=204px/>
 <br>
 <br>
 
